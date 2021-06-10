@@ -1,3 +1,4 @@
 SELECT campo1,
-       campo2
+       campo2,
+       campo3
   FROM tabla;
